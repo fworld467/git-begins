@@ -3,3 +3,6 @@ git add "nom du fichier"
 git commit -m "Tu met  le message de commit que tu veut"
 git push        pour le pousser vers github
 git pull        pour récuperer les modifications de GitHub sur mon terminal.
+git branch  nomdelabranche        je créer la branche.
+git switch nom-de-la-branche      sa permet de passer d'une branche a une autre branche.
+git branch             sa permet de vérifier sur la branche que je suis. Il ya une étoile qui apparait devant la branche du moment ou on est sur cette branche.
