@@ -1,4 +1,5 @@
 git clone "copie colle lien ssh ou HTTP"
 git add "nom du fichier"
 git commit -m "Tu met  le message de commit que tu veut"
-git push
+git push        pour le pousser vers github
+git pull        pour récuperer les modifications de GitHub sur mon terminal.
